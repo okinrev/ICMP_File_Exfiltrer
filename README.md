@@ -8,6 +8,7 @@ Dans le répertoire racine, lancer la commande make
 
 ## Usage
 
+```
 -m, --master
     run the binary as a master (server), it's the default value
 -s, --slave <Master IP>
@@ -19,6 +20,7 @@ Dans le répertoire racine, lancer la commande make
     Only for slave: specified a directory, each file in the specified
     directory must be extracted (not recursivly)
     Incompatible with -f, --file
+```
 
 ## Contributing
 
